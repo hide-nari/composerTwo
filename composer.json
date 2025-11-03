@@ -1,6 +1,7 @@
 {
     "name": "hidenari/composer-two",
     "type": "library",
+    "description": "composer sample",
     "autoload": {
         "psr-4": {
             "Hidenari\\ComposerTwo\\": "src/"
