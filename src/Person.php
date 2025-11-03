@@ -3,7 +3,7 @@ namespace Hidenari\ComposerTwo;
 
 class Person
 {
-    private $name = 'saburo';
+    private $name = 'taro';
     private $age = 15;
 
     public function getName(): string
